@@ -7,6 +7,7 @@
     "dev": "nodemon",
     "class-extend": "nodemon ./class-extend.js",
     "class-router": "nodemon ./class-router.js",
+    "destructuring": "nodemon ./destructuring.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

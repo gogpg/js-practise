@@ -2,13 +2,13 @@ console.clear();
 
 class Page404 {    //skirtingos klases
     render() {
-        return `404 content`;
+        return `404 content`;  //klasiu turinys, kuris atsivaizduoja HTML.
     }
 }
 
 class PageHome {    ///skirtingos klases
     render() {
-        return `Home content`;
+        return `Home content`;  //klasiu turinys, kuris atsivaizduoja HTML.
     }
 }
 
