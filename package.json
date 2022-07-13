@@ -8,6 +8,12 @@
     "class-extend": "nodemon ./class-extend.js",
     "class-router": "nodemon ./class-router.js",
     "destructuring": "nodemon ./destructuring.js",
+    "callback": "nodemon ./callback.js",
+    "switch": "nodemon ./switch.js",
+    "spread": "nodemon ./spread.js",
+    "object": "nodemon ./object.js",
+    "map": "nodemon ./map.js",
+    "arrow": "nodemon ./arrow.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
